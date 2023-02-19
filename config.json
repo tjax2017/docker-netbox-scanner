@@ -1,6 +1,6 @@
 {
-  "user": "casperklein",
+  "user": "tjax2017",
   "name": "netbox-scanner",
-  "image": "casperklein/netbox-scanner",
-  "version": "2.3.1"
+  "image": "tjax2017netbox-scanner",
+  "version": "1"
 }
